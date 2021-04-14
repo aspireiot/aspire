@@ -1,1 +1,2 @@
-# react-native
+# Aspireiot universal web browser
+v1.0
